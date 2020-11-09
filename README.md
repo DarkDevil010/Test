@@ -15,10 +15,10 @@
 
 * pkg install git
 
-* git clone https://github.com/Freaked-Dude/Test
+* git clone https://github.com/DarkDevil010/Test.git
 
 * cd Test
 
-* python2 Test.py
+* python2 Test
 
 ## thanks For Using My Commands
